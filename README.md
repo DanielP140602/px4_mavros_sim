@@ -28,5 +28,5 @@ Lee la guía completa en [`docs/simulacion_px4_mavros.md`](docs/simulacion_px4_m
 
 ---
 
-> Autor: [Daniel PAllazhco]  
+> Autor: [Daniel Pallazhco]  
 > Fecha: [Julio/2025]
