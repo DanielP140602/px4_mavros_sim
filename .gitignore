@@ -1,0 +1,10 @@
+# Ignorar carpetas generadas automáticamente por colcon
+build/
+install/
+log/
+
+# Ignorar archivos temporales
+*.pyc
+__pycache__/
+*.swp
+*.appimage
